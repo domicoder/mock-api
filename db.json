@@ -1,0 +1,73 @@
+{
+  "alarmClocks": [
+    {
+      "id": 11,
+      "picture": "https://picsum.photos/180/180"
+    },
+    {
+      "id": 22,
+      "picture": "https://picsum.photos/180/180"
+    },
+    {
+      "id": 33,
+      "picture": "https://picsum.photos/180/180"
+    },
+    {
+      "id": 44,
+      "picture": "https://picsum.photos/180/180"
+    },
+    {
+      "id": 55,
+      "picture": "https://picsum.photos/180/180"
+    }
+  ],
+  "artists": [
+    {
+      "id": 11,
+      "picture": "https://picsum.photos/220/250",
+      "name": "Full Name Artist"
+    },
+    {
+      "id": 22,
+      "picture": "https://picsum.photos/220/250",
+      "name": "Full Name Artist"
+    },
+    {
+      "id": 33,
+      "picture": "https://picsum.photos/220/250",
+      "name": "Full Name Artist"
+    },
+    {
+      "id": 44,
+      "picture": "https://picsum.photos/220/250",
+      "name": "Full Name Artist"
+    },
+    {
+      "id": 55,
+      "picture": "https://picsum.photos/220/250",
+      "name": "Full Name Artist"
+    }
+  ],
+  "advertisings": [
+    {
+      "id": 1,
+      "combo": [
+        {
+          "id": 11,
+          "picture": "https://picsum.photos/220/250",
+          "type": "medium"
+        },
+        {
+          "id": 22,
+          "picture": "https://picsum.photos/220/250",
+          "type": "medium"
+        },
+        {
+          "id": 33,
+          "picture": "https://picsum.photos/500/500",
+          "type": "hight"
+        }
+      ]
+    }
+  ]
+}
