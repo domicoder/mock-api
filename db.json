@@ -48,23 +48,23 @@
       "name": "Full Name Artist"
     }
   ],
-  "advertisings": [
+  "advertising": [
     {
       "id": 1,
       "combo": [
         {
           "id": 11,
-          "picture": "https://picsum.photos/220/250",
+          "picture": "https://picsum.photos/500/300",
           "type": "medium"
         },
         {
           "id": 22,
-          "picture": "https://picsum.photos/220/250",
+          "picture": "https://picsum.photos/500/300",
           "type": "medium"
         },
         {
           "id": 33,
-          "picture": "https://picsum.photos/500/500",
+          "picture": "https://picsum.photos/500/300",
           "type": "hight"
         }
       ]
